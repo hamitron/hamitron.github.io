@@ -38,13 +38,23 @@ NNNNMNmN:/shdmNmmmmmmmmmmNNmdhy/mmmmmmmNNmmmmmmmmmmmmmmmmd-
 Nonfat Media - iOS & Web Developer
   DECEMBER 2014 - PRESENT,  LOS ANGELES, CA
 ```
-| Project Name        | Tech           | Detail  |
-|----|----|----|
-| Actors Access| iOS/ Swift 3 | Mobile platform for ActorsAccess.com |
-| Aarpvark | express.js / node | Mock API for prototyping app web requests without official webservice |
-| EcoCast | iOS/ Swift 3 | Replace legacy macOS application heavily reliant on peripheral devices|
-| LoadOx  | Ruby on Rails/ Sidekiq | Database load testing application to help catch critical errors before deployment|
-| Showfax | Ruby on Rails | Full-stack overhaul of outdated product in a test-driven environment. Optimized site performance through passing static assets to NGINX, Active Record query caching, and multi-worker multi-threaded Puma server configuration|
+* Actors Access
+  * iOS/ Swift 3 
+  * Mobile platform for ActorsAccess.com 
+* Aarpvark 
+  * express.js / node 
+  * Mock API for prototyping app web requests without official webservice 
+* EcoCast 
+  * iOS/ Swift 3 
+  * Replace legacy macOS application heavily reliant on peripheral devices
+* LoadOx  
+  * Ruby on Rails/ Sidekiq 
+  * Database load testing application to help catch critical errors before deployment
+* Showfax 
+  * Ruby on Rails 
+  * Full-stack overhaul of outdated product in a test-driven environment
+  * Optimized site performance through passing static assets to NGINX, Active Record query caching, and multi-worker multi-threaded Puma server configuration
+
 ```
 Nonfat Media - QA
   DECEMBER 2014 - JANUARY 2015,  LOS ANGELES, CA
