@@ -35,7 +35,7 @@ Nonfat Media - iOS & Web Developer
   * iOS/ Swift 3 
   * Mobile platform for ActorsAccess.com 
 * Aarpvark 
-  * express.js / node 
+  * Express.js / Node 
   * Mock API for prototyping app web requests without official webservice 
 * EcoCast 
   * iOS/ Swift 3 
