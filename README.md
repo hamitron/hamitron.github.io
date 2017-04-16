@@ -34,7 +34,7 @@ NNNNMNmN:/shdmNmmmmmmmmmmNNmdhy/mmmmmmmNNmmmmmmmmmmmmmmmmd-
 ```
 #### iOS and Full Stack Web Developer.
 
-## experience:
+## Experience:
 * iOS Development
   * Swift 2 / 3
   * Alamofire
