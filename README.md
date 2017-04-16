@@ -1,9 +1,5 @@
-## Hamilton Quincy Karl
+# Hamilton Quincy Karl
 ```
-
-                       `-::+so+-`                            
-                 .-///++ossyso/-``                          
-             `-//+shhddddddmdho+`                           
            :syhhhhhddddhhyhmmmdys:.                         
          `shhhy/:--/osoo//+yddyyyyyo-                       
         .shs+-`     ``.:+osyyssyhdddh-                      
@@ -28,11 +24,8 @@
 hmNNmmmNmmdm.       `````.:omoNNNNmmmmmmNmmmNNmmmmmmo`      
 NmNMNNmNmoohs-`    ```` `-smdoyNNNNmmmmmmmmmmmmmmmmmmd/     
 NNNNMNmMm-+hNmho-```  `-omNmdh/mNNNmmmmmmmmmmmmmmmmmmmm:    
-NNNNMNmMy/shmNmmmdyo+shmmNNmdh:dmmmmmmmmmmmmmmmmmmmmmmmmo   
-NNNNMNmM+shdmNNmmmmmmmmmmmNmddosmmmmmmmmmmmmmmmmmmmmmmmNm/  
-NNNNMNmN:/shdmNmmmmmmmmmmNNmdhy/mmmmmmmNNmmmmmmmmmmmmmmmmd-
 ```
-#### iOS and Full Stack Web Developer.
+### iOS and Full Stack Web Developer.
 ## Experience:
 ```
 Nonfat Media - iOS & Web Developer
