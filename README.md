@@ -39,6 +39,7 @@ Nonfat Media - iOS & Web Developer
   DECEMBER 2014 - PRESENT,  LOS ANGELES, CA
 ```
 | Project Name        | Tech           | Detail  |
+|----|----|----|
 | Actors Access| iOS/ Swift 3 | Mobile platform for ActorsAccess.com |
 | Aarpvark | express.js / node | Mock API for prototyping app web requests without official webservice |
 | EcoCast | iOS/ Swift 3 | Replace legacy macOS application heavily reliant on peripheral devices|
