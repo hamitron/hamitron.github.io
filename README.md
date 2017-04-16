@@ -139,12 +139,12 @@ Agency for the Performing Arts - Agent Trainee
   * 35mm Cameras
 
 ## Education:
-* Professional Training:
+#### Professional Training:
 ```
 General Assembly / Web Development Immersive
   JULY 2014 through OCTOBER 2014,  SANTA MONICA, CA
 ```
-* College:
+#### College:
 ```
 Southern Oregon University / Bachelor of Arts in Communication - Focus in Video Production
   SEPTEMBER 2006 through JUNE 2009, ASHLAND, OR
