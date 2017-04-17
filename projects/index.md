@@ -56,7 +56,7 @@ _In development_
 - Parse stored sql statements, allow for insertion of set and/or arbitrary variables
 - Deploy and maintain system for continued use by administrators
 
-![LoadOx Splash](images/loadOX_success.png)
+![LoadOx Splash](images/loadOx_success.png)
 Example of an unsafe procedure discovered through LoadOx.
 
 ## Specs:
@@ -81,7 +81,7 @@ Sides in user's cart
 * Connecting Ruby on Rails to Microsoft SQL Server
 * Optimizing site performance with reverse proxying and f5 load balancing
 
-![Caching](images/Showfax_caching)
+![Caching](images/Showfax_caching.png)
 Server caching at work
 
 ## Specs:
