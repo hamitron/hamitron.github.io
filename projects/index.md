@@ -69,11 +69,20 @@ Example of an unsafe procedure discovered through LoadOx.
 # SHOWFAX
 #### Subscription service for downloading screenplay sides, empowering working actors across the country
 _Although our team completed development, the project was shelved and never deployed_
+![Home](images/Showfax_home.png)
+Home / Login
+![Sides information](images/Showfax_1.png)
+Sides available for download / purchase
+![Cart](images/Showfax_2.png)
+Sides in user's cart
 
 ## Challenges:
 * Watermarking PDF files with asynchronous background processing
 * Connecting Ruby on Rails to Microsoft SQL Server
 * Optimizing site performance with reverse proxying and f5 load balancing
+
+![Caching](images/Showfax_caching)
+Server caching at work
 
 ## Specs:
 - Ruby on Rails 4
