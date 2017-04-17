@@ -26,6 +26,7 @@ NmNMNNmNmoohs-`    ```` `-smdoyNNNNmmmmmmmmmmmmmmmmmmd/
 NNNNMNmMm-+hNmho-```  `-omNmdh/mNNNmmmmmmmmmmmmmmmmmmmm:    
 ```
 ### iOS and Full Stack Web Developer.
+[Portfolio](projects/)
 ## Experience:
 ```
 Nonfat Media - iOS & Web Developer
