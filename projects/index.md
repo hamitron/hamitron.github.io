@@ -14,14 +14,14 @@
 #### Manage, record, and share casting sessions
 _Awaiting internal approval for app store release_
 
-![Sign In](images/EcoCast_4.png)
 Sign In
-![](images/EcoCast_1.png)
+![Sign In](images/EcoCast_4.png)
 Plan view with extended side menu
-![Join Video Clips](images/EcoCast_2.png)
+![](images/EcoCast_1.png)
 Join video takes
-![Drag and Drop](images/EcoCast_3.png)
+![Join Video Clips](images/EcoCast_2.png)
 Drag and drop actors from list to audition blocks
+![Drag and Drop](images/EcoCast_3.png)
 
 ## Challenges:
 - Drag and drop between view controllers
@@ -37,7 +37,8 @@ Drag and drop actors from list to audition blocks
 # Ransomr
 #### Take photos of letters, cut them out, and create ransom-style notes
 _In development_
-![sample of functionality](images/helloworld.gif)
+
+![sample of functionality](images/ransomr_helloworld.gif)
 
 ## Challenges:
 - Allow user to cut letters out of pictures
