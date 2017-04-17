@@ -1,17 +1,29 @@
 # Table of Contents
-- **ECO CAST IPAD** - Manage, record, and share casting sessions 
-- **SHOWFAX** - Subscription service for downloading screenplay pages
-- **NFC DEAD DROP** - A web enabled geocaching / scavenger hunt using NFC tags
-- **TWIINES** - Timeline based micro-blogging. Share updates of projects and track personal goals in a clean and simple fashion
-- **BEVERAGE BRAND SPEC** - A social platform where users can upload and vote on designs for a beverage company's labels
-- **FIST OF FIVE** - Visualize classroom comprehension
+1. **ECO CAST IPAD** - Manage, record, and share casting sessions 
+2. **RANSOMR** - Capture photos of letters, create "ransom" notes
+3. **LOADOX** - Database load testing platform
+4. **SHOWFAX** - Subscription service for downloading screenplay pages
+5. **NFC DEAD DROP** - A web enabled geocaching / scavenger hunt using NFC tags
+6. **TWIINES** - Timeline based micro-blogging. Share updates of projects and track personal goals in a clean and simple fashion
+7. **BEVERAGE BRAND SPEC** - A social platform where users can upload and vote on designs for a beverage company's labels
+8. **FIST OF FIVE** - Visualize classroom comprehension
+
+***
 
 # Eco Cast iPad
 #### Manage, record, and share casting sessions
-_Currently awaiting internal approval for app store release_
+_Awaiting internal approval for app store release_
+
+![Sign In](images/EcoCast_4.png)
+Sign In
+![](images/EcoCast_1.png)
+Plan view with extended side menu
+![Join Video Clips](images/EcoCast_2.png)
+Join video takes
+![Drag and Drop](images/EcoCast_3.png)
+Drag and drop actors from list to audition blocks
 
 ## Challenges:
-- Learning iOS development on the fly to meet development deadlines
 - Drag and drop between view controllers
 - Interaction with webservices
 - Preventing and removing strong reference cycles
@@ -19,6 +31,39 @@ _Currently awaiting internal approval for app store release_
 ## Specs:
 - Designed for use with iPad Pro models
 - Swift 3
+
+***
+
+# Ransomr
+#### Take photos of letters, cut them out, and create ransom-style notes
+_In development_
+![sample of functionality](images/helloworld.gif)
+
+## Challenges:
+- Allow user to cut letters out of pictures
+- Displaying letters in note, adding realism with randomized rotation
+
+***
+
+# LoadOx
+#### Database load testing through concurrent process generation.  Helps team of database administrators simulate conditions that cause database errors.
+![Procedure Cart](images/loadOx_cart.png)
+
+## Challenges:
+- Produce system capable of creating significat sql traffic in controllable increments
+- Store sequences to run in 'laps,' with variation between runs
+- Parse stored sql statements, allow for insertion of set and/or arbitrary variables
+- Deploy and maintain system for continued use by administrators
+
+![LoadOx Splash](images/loadOX_success.png)
+Example of an unsafe procedure discovered through LoadOx.
+
+## Specs:
+- Ruby on Rails 4
+- Sidekiq / Redis for background processing
+- PostreSQL
+
+***
 
 # SHOWFAX
 #### Subscription service for downloading screenplay sides, empowering working actors across the country
@@ -35,6 +80,8 @@ _Although our team completed development, the project was shelved and never depl
 - NGINX for Static Assets
 - Microsoft SQL Server
 - Ubuntu
+
+***
 
 # NFC Dead Drop
 ![splash](images/nfc_splash.png)
@@ -58,6 +105,8 @@ _Although our team completed development, the project was shelved and never depl
 ```ruby
 	random_token = SecureRandom.urlsafe_base64(nil, false)
 ```
+
+***
 
 # Twiines
 ![splash](images/twiines_splash.png)
@@ -89,6 +138,8 @@ _Although our team completed development, the project was shelved and never depl
 	end
 
 ```
+
+***
 
 # GUZL Voting Spec aka 'bevmaster'
 ![beverage with votes](images/bev_show.png)
@@ -152,6 +203,8 @@ var path = svg.selectAll("path")
        }
   });
 ```
+
+***
 
 # Fist of Five
 ![Chart](images/five_chart.png)
