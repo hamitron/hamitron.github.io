@@ -26,7 +26,13 @@ NmNMNNmNmoohs-`    ```` `-smdoyNNNNmmmmmmmmmmmmmmmmmmd/
 NNNNMNmMm-+hNmho-```  `-omNmdh/mNNNmmmmmmmmmmmmmmmmmmmm:    
 ```
 ### iOS and Full Stack Web Developer.
-[Portfolio](projects/)
+
+* [Portfolio](projects/) 
+* [GitHub](http://www.github.com/hamitron)
+* [LinkedIn](https://www.linkedin.com/in/hamiltonqkarl/)
+
+***
+
 ## Experience:
 ```
 Nonfat Media - iOS & Web Developer
@@ -63,6 +69,8 @@ Agency for the Performing Arts - Video & Creative Services
 Agency for the Performing Arts - Agent Trainee
  MAY 2010 through NOVEMBER 2010,  BEVERLY HILLS, CA
 ```
+
+***
 
 ## Skills:
 * iOS Development
@@ -131,6 +139,8 @@ Agency for the Performing Arts - Agent Trainee
   * Polaroid
   * Medium Format
   * 35mm Cameras
+
+***
 
 ## Education:
 #### Professional Training:
