@@ -12,7 +12,7 @@
 
 # Eco Cast iPad
 #### Manage, record, and share casting sessions
-_Awaiting internal approval for app store release_
+_Available in App Store_
 
 Sign In
 ![Sign In](images/EcoCast_4.png)
